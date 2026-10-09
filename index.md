@@ -10,4 +10,5 @@ display any YouTube data belonging to anyone else.
 
 - Channel: https://www.youtube.com/@CutawayGarage
 - [Privacy policy](privacy.md)
+- [Terms of service](terms.md)
 - Contact: see the channel's About page
